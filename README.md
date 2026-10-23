@@ -7,3 +7,6 @@ Monitoring Soziale Stadtentwicklung Berlin 2025
 # Datenquelle: Amt für Statistik Berlin Brandenburg 
 ## EP2
 ![Berlin_LOR_Bev19.png](https://github.com/ih953/GIS/blob/main/Berlin_LOR_Bev19.png?raw=true)
+# Episode 3
+# Georeferenzieren & Digitalisieren
+#![Berlin_1833.png](https://github.com/ih953/GIS/blob/main/Berlin_1833.png?raw=true)
