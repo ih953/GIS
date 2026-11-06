@@ -10,3 +10,4 @@ Monitoring Soziale Stadtentwicklung Berlin 2025
 # Episode 3
 # Georeferenzieren & Digitalisieren
 #![Berlin_1833.png](https://github.com/ih953/GIS/blob/main/Berlin_1833.png?raw=true)
+#<img width="3507" height="2480" alt="Berlin_Grenze" src="https://github.com/user-attachments/assets/cb318ff6-349c-488d-9c74-8db70ad17ad6" />
